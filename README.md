@@ -1,5 +1,10 @@
 # Getting started Tutorial - Restful APIs with Golang
 
+## Disclaimer
+I did this tutorial when I barely knew the language and I was still a junior developer. Some information that I can give in this tutorial may no longer be up-to-date.
+
+------------------
+
 After couple years of developing web applications, I wanted something new, something different. I was looking for new technologies which have good support, good community and good perspectives. You will say that it may sounds obvious, nobody will turn to Basic Programming right now and you are right. But I needed a nice introduction for my tutorial.
 
 So, in fact, few  weeks ago, I didn't even know anything about Go Programming, just strict basics like who's behind and what's it made for but nothing more.
